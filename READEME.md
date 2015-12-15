@@ -17,4 +17,4 @@ Todas as biblitecas aRest e do DHT11 estão na pasta "libs", elas devem ser adic
 
 ### Esquema Físico
 
--- ToDo --
+![Esquema físico](/Fritzing\ Project/ExemploEthernetRest_bb.png)
