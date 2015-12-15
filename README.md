@@ -26,7 +26,7 @@ Para replicar o exemplo é necessário que vc esteja conectado ao seu Arduino na
 
 1. Digite no seu Console/Cmd o comando `ifconfig` (Linux) ou `ipconfig` (Windows) para identificar o IP da sua máquina na rede onde estão conectado.
 
-2. Altere as linhas abaixo no código com o número de IP disponível na rede, o gateway e a máscara da sua rede. Caso tenha dúvidas do que seja cada um, veja esse ![link](http://www.portaleducacao.com.br/educacao/artigos/49129/afinal-o-que-e-ip-mascara-gateway-e-dns)
+2. Altere as linhas abaixo no código com o número de IP disponível na rede, o gateway e a máscara da sua rede. Caso tenha dúvidas do que seja cada um, veja esse [link](http://www.portaleducacao.com.br/educacao/artigos/49129/afinal-o-que-e-ip-mascara-gateway-e-dns)
 
 ```cpp
 
